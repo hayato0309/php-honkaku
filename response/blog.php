@@ -6,7 +6,7 @@ $articles = [
     1001 => 'シンガポール料理を食べてきました',
     1002 => 'PHPとJavaScriptの連携について',
     1003 => '演劇を見てきました',
-    1004 => 'Japan IT Weekの見学'
+    1005 => 'Japan IT Weekの見学'
 ];
 if (!isset($_GET['articleId']) || !isset($articles[$_GET['articleId']])) {
     header('HTTP/1.1 404 Not Found');
