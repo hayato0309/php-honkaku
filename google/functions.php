@@ -3,7 +3,7 @@
 /**
  * ここを、取得したAPIキー値に書き換えてください。
  */
-define('API_KEY', 'AIzaSyCsaDnPr3jUNWzeHLWbHV7o06Ok_xTfKnM');
+define('API_KEY', 'YOUR-API-KEY');
 
 /**
  * 文章を感情分析APIに送信し、結果を返す関数
